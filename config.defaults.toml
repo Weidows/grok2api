@@ -19,7 +19,7 @@ temporary = true
 # 是否禁用 Grok 记忆功能
 disable_memory = true
 # 是否默认启用流式响应
-stream = true
+stream = false
 # 是否默认启用思维链输出
 thinking = true
 # 是否动态生成 Statsig 指纹
